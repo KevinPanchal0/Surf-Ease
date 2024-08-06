@@ -12,11 +12,11 @@ enhance the knowledge and skills of IT students in mobile app development using 
 - [Download](#download)
 
 ## Screenshots(Android)
-<img src="https://github.com/user-attachments/assets/efa69ee0-0891-4453-8bad-a9019cd97a8a" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/ac3d6e6b-3c9a-4a1c-9020-ab0f354c8b81" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/fd29f1c1-2e64-4aca-8c06-cf4f9f64fa5f" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/3bcf1e1c-78ec-4566-bed3-0cb63a39d877" alt="App Screenshot" width="200" height="400"/> <br> <br>
-<img src="https://github.com/user-attachments/assets/609bad9d-b664-4a24-98aa-5836ff39c229" alt="App Screenshot" width="200" height="400"/>
+<img src="" alt="App Screenshot" width="200" height="400"/>
+<img src="" alt="App Screenshot" width="200" height="400"/>
+<img src="" alt="App Screenshot" width="200" height="400"/>
+<img src="" alt="App Screenshot" width="200" height="400"/> <br> <br>
+<img src="" alt="App Screenshot" width="200" height="400"/>
 
 ## Features
 - To enable users to browse the internet within the app using a WebView widget to display web
