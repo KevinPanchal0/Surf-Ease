@@ -115,21 +115,7 @@ class _HomePageState extends State<HomePage> {
                                   Provider.of<BookmarkProvider>(context,
                                           listen: false)
                                       .addBookMark(BookmarkModal(
-                                          tittle: tittle!, url: url!));
-                                  final snackBar = SnackBar(
-                                    behavior: SnackBarBehavior.floating,
-                                    margin: const EdgeInsets.only(bottom: 80),
-                                    action: SnackBarAction(
-                                      label: 'Go',
-                                      onPressed: () {
-                                        Navigator.of(context)
-                                            .pushNamed('bookMark');
-                                      },
-                                    ),
-                                    content: const Text('BookMark Added'),
-                                  );
-                                  ScaffoldMessenger.of(context)
-                                      .showSnackBar(snackBar);
+                                          tittle: tittle!, url: url!), context);
                                 },
                                 icon: const Icon(
                                   Icons.bookmark_border_outlined,
