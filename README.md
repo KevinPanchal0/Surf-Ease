@@ -6,11 +6,11 @@ by using a WebView widget to display web content from websites. This project is 
 enhance the knowledge and skills of IT students in mobile app development using Flutter.
 
 ## Table of Contents
-- [Screenshots(Android)](#screenshotsandroid)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Project Technologies](#project-technologies)
 
-## Screenshots(Android)
+## Screenshots
 <img src="https://github.com/user-attachments/assets/22091c57-b370-443e-b179-74467ec7f7db" alt="App Screenshot" width="200" height="400"/> &#160;
 <img src="https://github.com/user-attachments/assets/0aaa8edc-af85-43c3-a4df-7a2ee2a456f6" alt="App Screenshot" width="200" height="400"/> &#160;
 <img src="https://github.com/user-attachments/assets/2f891d9c-dd43-489a-9ee2-b36bf98b3cb7" alt="App Screenshot" width="200" height="400"/> &#160;
